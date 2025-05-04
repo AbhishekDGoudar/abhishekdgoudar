@@ -1,7 +1,6 @@
 
 # Abhishek Goudar
 
-**Software Engineer**  
 **Email:** abhishekdgoudar@gmail.com  
 **LinkedIn:** www.linkedin.com/in/abhishekdgoudar  
 
