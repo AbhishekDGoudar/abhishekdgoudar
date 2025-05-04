@@ -2,8 +2,11 @@
 # Abhishek Goudar
 
 **Software Engineer**  
+
 **Email:** abhishekdgoudar@gmail.com  
+
 **LinkedIn:** linkedin.com/in/abhishekdgoudar  
+
 **Portfolio:** abhishekdgoudar.github.io
 
 ---
@@ -16,7 +19,11 @@ I am a software engineer with over 5 years of experience in software design, opt
 
 ## Experience
 
-I have worked as a Software Engineer at IDIR Lab, UT Arlington, where I optimized knowledge graph query completion using large language models and developed web applications to support research. Previously, I was a Lead Software Development Engineer at Voiro, India, where I developed software solutions for OTT players, containerized microservices, implemented caching systems, and managed AWS deployments. At Travelder, India, I boosted user engagement with conversational chatbots, developed full-stack web applications, and introduced Agile Scrum practices.
+With a passion for technology and a proven track record of success, I am a dynamic and skilled Software Engineer. My technical proficiency in software development, design, optimization, and machine learning has enabled me to effectively lead cross-functional teams and complete a range of complex projects while delivering exceptional results.
+
+My strong understanding of engineering principles and commitment to continuous learning and improvement set me apart as a top-performing professional. Whether collaborating with colleagues, mentoring junior engineers, or pushing the boundaries of innovation, I am dedicated to driving success and making a meaningful impact.
+
+Let’s connect and explore opportunities to collaborate!
 
 ---
 
