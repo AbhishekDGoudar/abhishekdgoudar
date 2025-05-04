@@ -2,22 +2,12 @@
 # Abhishek Goudar
 
 **Software Engineer**  
-
 **Email:** abhishekdgoudar@gmail.com  
-
-**LinkedIn:** linkedin.com/in/abhishekdgoudar  
-
-**Portfolio:** abhishekdgoudar.github.io
+**LinkedIn:** www.linkedin.com/in/abhishekdgoudar  
 
 ---
 
 ## About Me
-
-I am a software engineer with over 5 years of experience in software design, optimization, and machine learning. I have a proven ability to deliver scalable, data-driven solutions and am currently seeking full-time opportunities to drive impact and innovation.
-
----
-
-## Experience
 
 With a passion for technology and a proven track record of success, I am a dynamic and skilled Software Engineer. My technical proficiency in software development, design, optimization, and machine learning has enabled me to effectively lead cross-functional teams and complete a range of complex projects while delivering exceptional results.
 
