@@ -38,12 +38,5 @@ Let’s connect and explore opportunities to collaborate!
 
 ---
 
-## Projects
-
-- **AI-Driven Knowledge Graph Completion:** Implemented a pipeline for knowledge graph completion using embedding models, enhancing data connectivity.
-- **Viz:** Created interactive Tableau visualizations for the Paris 2024 Olympics, showcasing trends and insights.
-- **RAG-Based Community Assistant:** Developed a virtual assistant for online communities using Retrieval-Augmented Generation models, integrating MLOps workflows for scalability.
-
----
 
 Feel free to reach out if you have any questions or opportunities!
