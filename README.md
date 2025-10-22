@@ -90,7 +90,8 @@ I have architected **high-performance ML pipelines**, fine-tuned models, and dep
   </a>
 </p>
 
-> **Note:** "Top Languages" is only a metric of the languages used in my public repositories and doesn't reflect my skill level or experience.
+> 📌 **Note:** The metrics above reflect data from my public repositories and do not necessarily represent my skill level or overall experience.
+
 
 ---
 
