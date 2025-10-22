@@ -14,10 +14,15 @@ I have architected **high-performance ML pipelines**, fine-tuned models, and dep
 
 ## 🧠 Top Skills (2025)
 
-**Machine Learning** | **Generative AI** | **LLMs** | **Applied Deep Learning** | **Knowledge Graphs**  
-**MLOps** | **Python** | **PyTorch** | **TensorFlow** | **LangChain**  
-**Cloud (AWS, Azure, GCP)** | **Scalable Systems Design** | **Data Engineering** | **Model Evaluation**  
-**Cross-Functional Collaboration**
+| AI & ML Expertise                      | Engineering & Deployment                 |
+|----------------------------------------|-------------------------------------------|
+| Machine Learning                       | MLOps                                     |
+| Generative AI                          | Scalable Systems Design                   |
+| Large Language Models (LLMs)           | Data Engineering                          |
+| Applied Deep Learning                  | Model Evaluation                          |
+| Knowledge Graphs                       | Cloud (AWS, Azure, GCP)                   |
+| LangChain                              | Cross-Functional Collaboration            |
+| Python, PyTorch, TensorFlow            |                                           |
 
 ---
 
