@@ -35,7 +35,7 @@ I have architected **high-performance ML pipelines**, fine-tuned models, and dep
 - 📫 Reach me at: **abhishekdgoudar@gmail.com**
 
 ---
-
+<!-- 
 ## 🛠️ Languages and Tools
 
 ### **AI & Machine Learning**
@@ -79,7 +79,7 @@ I have architected **high-performance ML pipelines**, fine-tuned models, and dep
 [![Neo4j](https://img.shields.io/badge/Neo4j-458DB2?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
