@@ -28,8 +28,8 @@ I have architected **high-performance ML pipelines**, fine-tuned models, and dep
 
 ## ⚡ A Few Quick Facts
 
-- 🔭 I’m currently working on projects involving **Computer Vision** and **Natural Language Processing** applications.
-- 🌱 I’m deepening my knowledge in **Reinforcement Learning** and **MLOps best practices**.
+- 🔭 I’m currently working on projects involving **Agentic AI**, exploring how autonomous agents can leverage **Computer Vision** and **Natural Language Processing** in real-world tasks.  
+- 🌱 I’m deepening my knowledge in **Reinforcement Learning** and **MLOps best practices**, staying engaged with the latest in **ongoing AI research** and deployment strategies.
 - 👯 I’m looking to collaborate on **open-source AI-driven applications** and **research projects**.
 - 💬 Ask me about **PyTorch**, **TensorFlow**, **scikit-learn**, **System Design**, or **Cloud Architecture**.
 - 📫 Reach me at: **abhishekdgoudar@gmail.com**
