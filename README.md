@@ -4,7 +4,20 @@
 
 🤖 **AI/ML Engineer | Generative AI, LLMs, Knowledge Graphs | Building Robust, Scalable ML Systems**
 
-I am a passionate and results-driven engineer with a Master's in Data Science and deep expertise in building intelligent systems. My work focuses on leveraging machine learning, deep learning, and robust software engineering principles to design, develop, and deploy solutions that address complex, real-world problems. I thrive on transforming data into actionable insights and building scalable, optimized applications.
+AI/ML Engineer with **5+ years** of experience developing and scaling intelligent systems that integrate **machine learning**, **large language models**, and **distributed data platforms**. I specialize in building **reliable, production-grade AI solutions** that blend cutting-edge research with robust engineering.
+
+My work spans both **academic research** and **industry-grade systems** — from building **LLM-based query formulation systems** and **knowledge graph–powered models** at **UT Arlington**, to developing **revenue intelligence and automation platforms** at **Voiro**, supporting ad operations for major OTT clients like **Disney+ Hotstar** and **DStv**.
+
+I have architected **high-performance ML pipelines**, fine-tuned models, and deployed **scalable inference workflows** across diverse cloud environments. I’m deeply interested in the next generation of AI where **models, data, and infrastructure converge** to create **adaptive, explainable, and trustworthy intelligence**.
+
+---
+
+## 🧠 Top Skills (2025)
+
+**Machine Learning** | **Generative AI** | **LLMs** | **Applied Deep Learning** | **Knowledge Graphs**  
+**MLOps** | **Python** | **PyTorch** | **TensorFlow** | **LangChain**  
+**Cloud (AWS, Azure, GCP)** | **Scalable Systems Design** | **Data Engineering** | **Model Evaluation**  
+**Cross-Functional Collaboration**
 
 ---
 
