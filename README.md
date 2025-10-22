@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekdgoudar/)
 
-🤖 **AI/ML Engineer | Data Scientist | Software Engineer**
+🤖 **AI/ML Engineer | Generative AI, LLMs, Knowledge Graphs | Building Robust, Scalable ML Systems**
 
 I am a passionate and results-driven engineer with a Master's in Data Science and deep expertise in building intelligent systems. My work focuses on leveraging machine learning, deep learning, and robust software engineering principles to design, develop, and deploy solutions that address complex, real-world problems. I thrive on transforming data into actionable insights and building scalable, optimized applications.
 
