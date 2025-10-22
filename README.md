@@ -90,7 +90,7 @@ I have architected **high-performance ML pipelines**, fine-tuned models, and dep
   </a>
 </p>
 
-> 📌 **Note:** The metrics above reflect data from my public repositories and do not necessarily represent my skill level or overall experience.
+> 📌 **Note:** The metrics above reflect data from my public repositories and do not represent my skill level or overall experience.
 
 
 ---
