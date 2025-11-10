@@ -99,10 +99,10 @@ I have architected **high-performance ML pipelines**, fine-tuned models, and dep
 
 
 ---
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/AbhishekDGoudar/AbhishekDGoudar/blob/output/github-contribution-grid-snake.svg" style="pointer-events: none;" />
   
   <br/><br/><br/>
-</div>
+</div> -->
